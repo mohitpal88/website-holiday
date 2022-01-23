@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>website templetet</title>
+</head>
+
+<body>
+    <table border="1" width="100%">
+        <tr>
+            <td width="100%" height="100px" colspan="4">
+                <table border="1" width="100%">
+                    <tr>
+                        <td width="7%" height="100px" bgcolor="#34946a"></td>
+                        <td width="22%" height="100px" align="center" bgcolor="#a8bdb4"> <img src="skytravel.jpg"
+                                alt=""> </td>
+                        <td width="25%" height="100px" align="center" bgcolor="#a8bdb4"> Enjoy Holiday With Us</td>
+                        <td width="20%" height="100px">
+                            <table border="1" width="100%">
+                                <tr>
+                                    <td width="100" height="40px" align="right" bgcolor="#a8bdb4">
+                                        <img src="i logo.jfif" alt="" width="40px" height="40px">
+                                        <img src="l logo.png" alt="" width="40px" height="40px">
+                                        <img src="t logo.png" alt="" width="40px" height="40px">
+                                        <img src="flogo.png" alt="" width="40px" height="40px">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="100%" height="40px" bgcolor="#a8bdb4">
+                                        E-mail R-@gmail.com mobile- 8888888888
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                        <td width="7%" height="100px" bgcolor="#34946a"> </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td width="75%" height="550px" colspan="3" valign="top" bgcolor="#42f5a7">
+                <img src="holiday.jfif" alt="" width="100%" height="300px">
+                <hr>
+                <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsam debitis, quas tempora eum deserunt
+                    consequatur quaerat est corporis? Optio nesciunt quo debitis vel praesentium a. Nemo possimus rem
+                    unde ut ipsum, recusandae quisquam sequi, vero ipsam sit voluptate nostrum excepturi? Soluta,
+                    inventore? Minus, accusamus enim magnam iste numquam nostrum. Iusto earum, fugiat rem eaque nobis
+                    quaerat doloremque provident ea illum quidem! Commodi cupiditate tempore molestias sint quisquam
+                    nulla repellat facere expedita iste, quam fuga minus, officiis aspernatur laboriosam alias ratione
+                    id cumque beatae praesentium rerum optio ex enim. Harum possimus mollitia, debitis repudiandae enim,
+                    vero ipsa doloremque culpa rerum vel consequuntur cum neque totam dignissimos velit itaque autem aut
+                    hic in quasi quisquam nostrum et? Velit incidunt ab, quasi doloribus excepturi cupiditate nemo
+                    perferendis perspiciatis! Quas ullam repellat veritatis aliquid sunt alias, placeat voluptas, dicta
+                    pariatur doloribus tenetur impedit quisquam voluptate quae dolores nam dolor iure beatae praesentium
+                    iste vitae quam porro officiis. Aperiam beatae, minima dolorum quod facilis et unde est quis nulla,
+                    praesentium exercitationem, voluptates quisquam sint soluta velit necessitatibus inventore libero
+                    magni. Eligendi aut hic ut perspiciatis, quo odit laborum alias quos rem illum ducimus repellendus
+                    sed vitae, quam optio architecto aperiam mollitia facilis ea! Eveniet veritatis omnis odio vel
+                    provident ab aliquid reiciendis molestiae praesentium, cupiditate natus id! Doloribus, dolorem
+                    harum. Adipisci odit explicabo, iste mollitia excepturi esse illo doloremque, ab ipsa quia magnam
+                    perferendis id fuga! Eaque, perspiciatis exercitationem, minus dolores magni debitis necessitatibus
+                    quas labore molestiae perferendis voluptatem earum quis harum, ipsa aperiam repellendus libero rem
+                    pariatur mollitia corrupti quae. Ex numquam quisquam sed facilis iure nisi, labore commodi inventore
+                    laudantium laboriosam error corporis excepturi officia ducimus delectus fuga maiores enim minima
+                    perferendis reprehenderit temporibus. Cumque ut officiis porro, animi dolorum reprehenderit eos odio
+                    adipisci perspiciatis fuga commodi nam at obcaecati, sit, facilis laudantium.
+                </p>
+            </td>
+            <td width="25%" colspan="1" bgcolor="#5D6D7E ">
+                <table border="1" width="100%">
+
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#"> NEW USER</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#"> LOGIN</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#"> BOOKING</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td width="100%" height="50px" align="center">
+                            <a href="#"> CANCEL</a>
+
+                    </tr>
+            </td>
+        </tr>
+    </table>
+    </td>
+    </tr>
+    <td width="25%" height="620px" colspan="1" bgcolor="#42f5a7">
+        <table border="1" width="100%">
+            <tr>
+                <td width="100%" height="50px" align="center">
+                    <a href="#"> HOTEL</a>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" height="50px" align="center">
+                    <a href="#"> CAR</a>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" height="50px" align="center">
+                    <a href="#"> AIR</a>
+                </td>
+            </tr>
+            <tr>
+                <td width="100%" height="50px" align="center">
+                    <a href="#"> RAIL</a>
+                </td>
+            </tr>
+        </table>
+    </td>
+    <td width="50%" colspan="2" valign="top" bgcolor="#42f5a7">
+        <img src="hotel.jfif" alt="" width="100%">
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum voluptatem similique maiores qui, magni
+            dolores provident quod impedit quis porro officiis minima autem beatae sint sit quibusdam maxime
+            cumque a? Laborum nemo vero nam, nisi fugit explicabo rerum, placeat fuga enim quis voluptate hic.
+            Dolores laudantium, quasi minus harum, illum id in sit maxime nisi dolorem ducimus nostrum
+            repellendus beatae expedita eum voluptates aspernatur delectus natus tenetur quos consequatur.
+            Repellat saepe tempora harum quisquam corrupti.
+        </p>
+    </td>
+    <td width="25%" colspan="1" align="center" valign="top" bgcolor="#42f5c8">
+        <marquee behavior="" direction="">
+            <img src="car booking.jfif" alt="">
+            <hr>
+            <img src="hoteloff.jfif" alt="">
+            <hr>
+            <img src="airoff.jfif" alt="">
+            <hr>
+            <img src="railoff.jfif" alt="">
+            <hr>
+        </marquee>
+    </td>
+    </tr>
+    </tr>
+    <tr>
+        <td width="25%" height="250px" bgcolor="#42f5a7">
+            <img src="goa.jfif" alt="">
+        </td>
+        <td bgcolor="#42f5a7">
+            <img src="kerla.jfif" alt="">
+        </td>
+        <td bgcolor="#42f5a7">
+            <img src="kashmir.jfif" alt="">
+        </td>
+        <td bgcolor="#42f5a7">
+            <img src="sikkim.jfif" alt="">
+        </td>
+    </tr>
+    <tr>
+        <td width="100%" colspan="4" height="100px" align="center" bgcolor="blue">
+            Copyright &#169; By Mohit Pal 2022
+        </td>
+    </tr>
+    </table>
+</body>
+
+</html>
